@@ -49,11 +49,26 @@
 
 ### Online Judge Profile:
 
-[![Badge](https://cp-logo.vercel.app/codeforces/Mestu?logo=true)](https://codeforces.com/profile/Mestu) 
+[![Badge](https://cp-logo.vercel.app/codeforces/Mestu?logo=true)](https://codeforces.com/profile/Mestu)
 
 ---
 
 <a href="https://Mestu-Paul.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mestu-Paul&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mestu-Paul&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+### Achievements
+
+<ul>
+ <li><b>ICPC Dhaka regional 2020 🥰 </b></li> 
+     <ul>
+      <li>Rank: 74 </li>
+      <li>Team: CoU_Enigmatologist</li>
+     </ul>
+ <li><b>RMSTU Programming contest</b></li>
+     <ul>
+      <li>Rank: 17</li>
+      <li>Team: CoU_Enigmatologist</li>
+ </ul>
+ </ul>
 
 ### Project
 
