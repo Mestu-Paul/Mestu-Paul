@@ -57,7 +57,7 @@
 - Participated in **multiple university onsite contests** with mentionable rankings  
 ---
 
-## **Recent Projects:**
+## **Projects:**
 
 - 📌 **Job Portal**  
   - **Tech Stack:** Angular, .NET, MongoDB  
@@ -79,9 +79,9 @@
   - **Tech Stack:** TypeScript, Power BI SDK, yFiles  
   - **Description:** Developed custom Power BI visuals, including a **node-edge graph visualization** using yFiles for better data representation.  
 
-
-
----
+- 📌 **Robot Blueberry**  
+  - **Tech Stack:** Python, Raspberry Pi  
+  - **Description:** A robot developed to perform tasks autonomously, with Bluetooth control and sensor-based actions.  
 
 ## **Operating Systems I Use:**
 <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
