@@ -1,89 +1,96 @@
-# Hello there, I am [Mestu Paul](https://github.com/Mestu-Paul) <img src="assets/wave.gif" width="30px">
+# Hello there, I'm [Mestu Paul](https://github.com/Mestu-Paul) <img src="assets/wave.gif" width="30px">
 
-## Glad to see you here!  ![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mestu-Paul&repo=Mestu-Paul&countColorcountColor&countColor=%237B1E7A)
-
+## Glad to see you here! ![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Mestu-Paul&repo=Mestu-Paul&countColor=%237B1E7A)
 
 <img align='right' src="assets/coding-freak.gif" width="230">
 
-### I'm a Student and also Programmer  :stuck_out_tongue_winking_eye:
+### I'm a Software Engineer and Tech Enthusiast 🚀
+- 💻 Associate Software Engineer at **Orbitax BD**  
+- 🚀 Working with **.NET, Angular, and MongoDB**  
+- 🌍 Passionate about **AI in software**  
+- 🎓 Strong knowledge of **Object-Oriented Programming (OOP)**  
+- 🚀 Love **solving complex problems, math, and competitive programming**  
+- 🏗️ Working on **Power BI Desktop, Power BI Service, and generating datasets and reports using the REST API**  
+- 🏗️ Also experienced in **Power BI paginated reports**  
+- 🏗️ Building **custom Power BI visuals for node-edge graphs using yFiles**  
+- 📌 Built a **Job Portal (Angular, .NET, MongoDB)** project  
 
 
-- 🌱 I like try to solve problem as well as math
-- 👯 I’m looking to good things for learning
+---
 
-<br>
-<br>
-
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+## **Languages and Tools:**
 
 <img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img  align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/DAX-323232?style=for-the-badge&logo=data&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Graph%20Theory-FF4081?style=for-the-badge&logo=data&logoColor=white" />
 
-<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img align="left" alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img align="left" alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img  align="left" alt="Bash" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" alt="Raspbery Pi" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="Arduino" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br>
-<br>
-<br>
-<br>
-
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-
-[<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/mestu.paul.812/)
-[<img src="https://img.icons8.com/doodle/48/000000/quora--v1.png"/>](https://www.quora.com/profile/Mestu-Paul)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/mestu_paul9/)
-[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png"/>](https://www.linkedin.com/in/mestu-paul-17076a195/)
-[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:paulmestu@gmail.com)
-[<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/Mestu-Paul)
+<br><br><br>
 
 ---
 
-<br>
-
-### Online Judge Profile:
-
-[![Badge](https://cp-logo.vercel.app/codeforces/Mestu?logo=true)](https://codeforces.com/profile/Mestu)
+## **Competitive Programming Profile:**
+- Codeforces: <a href="https://codeforces.com/profile/Mestu">Mestu</a>, Solved 1650+, Max-rating 1673
+- LightOJ: <a href="https://lightoj.com/user/paulmestu">Mestu Paul</a>, Solved 182+
+- Codechef: <a href="https://www.codechef.com/users/mestu">Mestu Paul</a>, Solved 150+, Max-rating 1872
+- Toph: <a href="https://toph.co/u/Mestu_Paul">Mestu_Paul</a>, Solved 270+, Max-rating 1662
 
 ---
 
-<a href="https://Mestu-Paul.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Mestu-Paul&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mestu-Paul&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+## **Notable Achievements:**
+- 🏆 **ICPC Dhaka Regional 2023**
+  - **Rank: 12**, **Team: CoU_DareToDreamAgain**
+  - Advanced to **ICPC Asia West**
+- **International Islamic University Chittagong IUPC** 
+  - Rank: 4, Team: CoU_DareToDreamAgain
+- **ICPC Dhaka Regional 2020, 2021, 2022**
+- **NCPC Dhaka 2024**
+- Participated in **multiple university onsite contests** with mentionable rankings  
+---
 
-### Achievements
+## **Recent Projects:**
 
-<ul>
- <li><b>ICPC Dhaka regional 2020 🥰 </b></li> 
-     <ul>
-      <li>Rank: 74 </li>
-      <li>Team: CoU_Enigmatologist</li>
-     </ul>
- <li><b>RMSTU Programming contest</b></li>
-     <ul>
-      <li>Rank: 17</li>
-      <li>Team: CoU_Enigmatologist</li>
- </ul>
- </ul>
+- 📌 **Job Portal**  
+  - **Tech Stack:** Angular, .NET, MongoDB  
+  - **Description:** A platform where users can sign up, post job circulars, apply for jobs, add a question bank with solutions, and manage approvals through an admin panel.  
 
-### Project
+- 📌 **Shop Inventory Management System**  
+  - **Tech Stack:** Tkinter (Python), SQLite  
+  - **Description:** A desktop-based inventory management system for tracking stock, sales, and purchases.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mestu-Paul&repo=Robot-Blueberry&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=solarized-light)](https://github.com/Mestu-Paul/Robot-Blueberry)
+- 📌 **Association Management Web Application**  
+  - **Tech Stack:** Java EE, MySQL, Tomcat, HTML, CSS, JavaScript  
+  - **Description:** A web application to manage and organize associations efficiently.  
 
-### Operating System:
- <img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
- <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
- <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
- <img align="left" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+- 📌 **Programming Adda**  
+  - **Tech Stack:** Django, HTML, CSS, JavaScript  
+  - **Description:** A web-based platform for programming discussions and knowledge sharing.  
+
+- 📌 **Power BI Custom Visuals**  
+  - **Tech Stack:** TypeScript, Power BI SDK, yFiles  
+  - **Description:** Developed custom Power BI visuals, including a **node-edge graph visualization** using yFiles for better data representation.  
 
 
-<br>
-<br>
-<br>
+
+---
+
+## **Operating Systems I Use:**
+<img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+<br><br>
+
+---
 
 <details>
  <summary> :zap: Stargazers </summary>
@@ -92,4 +99,12 @@
 
 </details>
 
+---
 
+## **Connect with me:**
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png"/>](https://www.linkedin.com/in/mestu-paul-17076a195/)
+[<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/Mestu-Paul)
+[<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/mestu.paul.812/)
+[<img src="https://img.icons8.com/doodle/48/000000/quora--v1.png"/>](https://www.quora.com/profile/Mestu-Paul)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:paulmestu@gmail.com)
